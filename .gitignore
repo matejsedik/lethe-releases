@@ -1,0 +1,4 @@
+# Inštalátory sa nahrávajú ako prílohy vydania (GitHub Releases), nie do gitu.
+*.exe
+*.sha256
+vydanie_*/
