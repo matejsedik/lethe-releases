@@ -1,5 +1,10 @@
 # Zoznam zmien
 
+## 1.0.1 – 2026-11-25
+
+- Vyčistený zoznam priezvisk: odstránené ženské tvary, ktoré program odvodí sám (napr. Muránska k Muránsky), a slovo „Neurčené“, ktoré nie je priezvisko.
+- Opravené preklepy s „ĺ“ namiesto „ľ“ v menách a priezviskách (napr. Kráľ, Oľga).
+
 ## 1.0.0 – 2026-11-25
 
 Prvé verejné vydanie programu Lethe.
