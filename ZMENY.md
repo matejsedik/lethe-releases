@@ -1,5 +1,12 @@
 # Zoznam zmien
 
+## 0.12.0 – 2026-11-25
+
+- Automatické aktualizácie: program sa (ak to pri prvom spustení povolíte) raz denne pozrie, či je nová verzia, a ponúkne ju. Stiahne ju až po potvrdení, overí jej odtlačok a nainštaluje; rozpracovaná práca ostane. Neodosiela nič z vašich dokumentov.
+- Presnejšie skeny: program lepšie číta takmer prázdne strany so sivým zašumeným pozadím (napr. strana s podpismi), a začiernený výsledok takejto strany je čitateľný.
+- Na skenoch zachytí aj rodné číslo, dátum narodenia, číslo účtu a e-mail, ktoré OCR prečítalo s chybou (medzera navyše, písmeno namiesto číslice, rozdelená doména).
+- Menej zbytočných nálezov: pokazené slová zo skenu („Mcno“, „Zmlun“) sa len navrhnú, obec za zlepeným „vobci“ sa už nepovažuje za meno.
+
 ## 0.11.0 – 2026-11-23
 
 - Tmavý režim: v Nastaveniach zvolíte vzhľad Svetlý, Tmavý alebo Podľa Windows. Zmena platí hneď, bez reštartu.
