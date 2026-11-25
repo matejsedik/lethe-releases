@@ -1,5 +1,9 @@
 # Zoznam zmien
 
+## 0.12.4 – 2026-11-25
+
+- Jednotné pomenovanie: priečinok aj repozitár s vydaniami sa volajú lethe-releases.
+
 ## 0.12.3 – 2026-11-25
 
 - Aktualizácie sa hľadajú vo verejnom repozitári lethe-releases.
