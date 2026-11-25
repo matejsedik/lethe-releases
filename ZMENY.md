@@ -1,5 +1,13 @@
 # Zoznam zmien
 
+## 0.12.2 – 2026-11-25
+
+- Automatické aktualizácie sú zapnuté: program má zabudovaný verejný kľúč vydavateľa a prijme len aktualizácie ním podpísané.
+
+## 0.12.1 – 2026-11-25
+
+- Aktualizácie sú chránené digitálnym podpisom vydavateľa: program nainštaluje len verziu podpísanú kľúčom, ktorý je iba u vydavateľa (nestačí ani prístup k jeho účtu na GitHube).
+
 ## 0.12.0 – 2026-11-25
 
 - Automatické aktualizácie: program sa (ak to pri prvom spustení povolíte) raz denne pozrie, či je nová verzia, a ponúkne ju. Stiahne ju až po potvrdení, overí jej odtlačok a nainštaluje; rozpracovaná práca ostane. Neodosiela nič z vašich dokumentov.
