@@ -2,3 +2,6 @@
 *.exe
 *.sha256
 vydanie_*/
+# Podpisový kľúč sem nikdy nepatrí
+*.key
+secrets/
