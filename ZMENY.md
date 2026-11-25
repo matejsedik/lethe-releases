@@ -1,5 +1,16 @@
 # Zoznam zmien
 
+## 1.0.0 – 2026-11-25
+
+Prvé verejné vydanie programu Lethe.
+
+- PDF chránené heslom sa po zadaní hesla hneď spracuje (predtým ostalo čakať).
+- Náhľad strán a spracovanie dokumentov už nepracujú s PDF naraz, čo mohlo zriedka zhodiť program.
+- Pri veľa starých Word súboroch (.doc) export už nezlyhá.
+- Kópie zmlúv a stiahnuté aktualizácie, ktoré by po páde ostali v dočasnom priečinku, sa pri ďalšom spustení a pri odinštalovaní zmažú.
+- Počas sťahovania aktualizácie sa nedá spustiť export a zatvorenie okna sťahovanie hneď zastaví.
+- Opravené texty v návode a inštalátore (názov Lethe).
+
 ## 0.12.4 – 2026-11-25
 
 - Jednotné pomenovanie: priečinok aj repozitár s vydaniami sa volajú lethe-releases.
